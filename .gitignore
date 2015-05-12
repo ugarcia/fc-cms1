@@ -1,15 +1,15 @@
 .htaccess
-wp-content/index.php
+wp-content/*.php
 wp-content/backup-db/
 wp-content/backups/
 wp-content/blogs.dir/
 wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/index.php
+wp-content/plugins/*.php
+wp-content/plugins/json-rest-api/
 wp-content/themes
 wp-admin
 wp-includes
-*.*
+/*.*
 
