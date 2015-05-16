@@ -1,3 +1,4 @@
+.idea
 .htaccess
 wp-content/*.php
 wp-content/backup-db/
