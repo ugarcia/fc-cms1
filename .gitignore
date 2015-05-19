@@ -9,6 +9,7 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/plugins/*.php
 wp-content/plugins/json-api/
+wp-content/plugins/json-api-user/
 wp-content/plugins/wordpress-importer/
 wp-content/themes
 wp-admin
