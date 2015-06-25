@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Albion Online MMO Game Website - Desktop",
+        "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
+        "caption": "Desktop size home page",
+        "link": "https://albiononline.com",
+        "content": "Website for a MMO game.\nWeb developed in PHP/Symfony2 (Twig templates)\nZurb's foundation as responsive framework + custom SASS styles.\nFrontend coded in both Javascript and Coffeescript.\nAssets compilation / optimization thru Grunt tasks.\nPostgreSQL + MySQL (forum) databases.\nIntegration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.\nProvisioning thru puppet + hiera."
+    },
+    {
+        "id": 2,
+        "title": "Albion Online MMO Game Website - Desktop",
+        "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
+        "caption": "Desktop size home page",
+        "link": "https://albiononline.com",
+        "content": "Website for a MMO game.\nWeb developed in PHP/Symfony2 (Twig templates)\nZurb's foundation as responsive framework + custom SASS styles.\nFrontend coded in both Javascript and Coffeescript.\nAssets compilation / optimization thru Grunt tasks.\nPostgreSQL + MySQL (forum) databases.\nIntegration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.\nProvisioning thru puppet + hiera."
+    },
+    {
+        "id": 3,
+        "title": "Albion Online MMO Game Website - Desktop",
+        "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
+        "caption": "Desktop size home page",
+        "link": "https://albiononline.com",
+        "content": "Website for a MMO game.\nWeb developed in PHP/Symfony2 (Twig templates)\nZurb's foundation as responsive framework + custom SASS styles.\nFrontend coded in both Javascript and Coffeescript.\nAssets compilation / optimization thru Grunt tasks.\nPostgreSQL + MySQL (forum) databases.\nIntegration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.\nProvisioning thru puppet + hiera."
+    }
+]
