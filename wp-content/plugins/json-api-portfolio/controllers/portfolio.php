@@ -25,10 +25,6 @@ class JSON_API_Portfolio_Controller {
     {
         $data = file_get_contents(dirname(__FILE__) . '/../data/portfolio.json');
 
-        $pass = password_hash('mypass', PASSWORD_BCRYPT);
-
-        $b = password_verify('mypass', $pass);
-
         return array(
             'items' => json_decode($data)
         );
