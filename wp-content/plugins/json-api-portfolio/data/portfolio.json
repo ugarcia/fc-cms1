@@ -1,26 +1,146 @@
 [
-    {
-        "id": 1,
-        "title": "Albion Online MMO Game Website - Desktop",
-        "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
-        "caption": "Desktop size home page",
-        "link": "https://albiononline.com",
-        "content": "Website for a MMO game.\nWeb developed in PHP/Symfony2 (Twig templates)\nZurb's foundation as responsive framework + custom SASS styles.\nFrontend coded in both Javascript and Coffeescript.\nAssets compilation / optimization thru Grunt tasks.\nPostgreSQL + MySQL (forum) databases.\nIntegration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.\nProvisioning thru puppet + hiera."
-    },
-    {
-        "id": 2,
-        "title": "Albion Online MMO Game Website - Desktop",
-        "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
-        "caption": "Desktop size home page",
-        "link": "https://albiononline.com",
-        "content": "Website for a MMO game.\nWeb developed in PHP/Symfony2 (Twig templates)\nZurb's foundation as responsive framework + custom SASS styles.\nFrontend coded in both Javascript and Coffeescript.\nAssets compilation / optimization thru Grunt tasks.\nPostgreSQL + MySQL (forum) databases.\nIntegration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.\nProvisioning thru puppet + hiera."
-    },
-    {
-        "id": 3,
-        "title": "Albion Online MMO Game Website - Desktop",
-        "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
-        "caption": "Desktop size home page",
-        "link": "https://albiononline.com",
-        "content": "Website for a MMO game.\nWeb developed in PHP/Symfony2 (Twig templates)\nZurb's foundation as responsive framework + custom SASS styles.\nFrontend coded in both Javascript and Coffeescript.\nAssets compilation / optimization thru Grunt tasks.\nPostgreSQL + MySQL (forum) databases.\nIntegration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.\nProvisioning thru puppet + hiera."
-    }
+  {
+    "id": 1,
+    "title": "Albion Online MMO Game Website - Desktop",
+    "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
+    "caption": "Desktop size home page",
+    "link": "https://albiononline.com",
+    "content": "Website for a MMO game.<br>Web developed in PHP/Symfony2 (Twig templates)<br>Zurb's foundation as responsive framework + custom SASS styles.<br>Frontend coded in both Javascript and Coffeescript.<br>Assets compilation / optimization thru Grunt tasks.<br>PostgreSQL + MySQL (forum) databases.<br>Integration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.<br>Provisioning thru puppet + hiera."
+  },
+  {
+    "id": 2,
+    "title": "Albion Online MMO Game Website - Mobile",
+    "img": "/app/modules/portfolio/img/ss_albiononline_mobile.png",
+    "caption": "Mobile size home page",
+    "link": "https://albiononline.com",
+    "content": "Website for a MMO game.<br>Web developed in PHP/Symfony2 (Twig templates)<br>Zurb's foundation as responsive framework + custom SASS styles.<br>Frontend coded in both Javascript and Coffeescript.<br>Assets compilation / optimization thru Grunt tasks.<br>PostgreSQL + MySQL (forum) databases.<br>Integration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.<br>Provisioning thru puppet + hiera."
+  },
+  {
+    "id": 3,
+    "title": "Albion Online MMO Game Forum",
+    "img": "/app/modules/portfolio/img/ss_albiononline_forum.png",
+    "caption": "Forum home page",
+    "link": "https://forum.albiononline.com",
+    "content": "Forum for a MMO game.<br>Developed using wbb"
+  },
+  {
+    "id": 4,
+    "title": "Schalke04 Bonusprogram - Desktop",
+    "img": "/app/modules/portfolio/img/ss_schalke_bonusprogramm_desktop.png",
+    "caption": "Desktop size Earns page",
+    "link": "https://schalkebonus.de",
+    "content": "Website for Fan Loyalty solution (Bonusprogram).<br>Developed in dotCMS (Velocity templates)<br>Own responsive framework / grid system + custom LESS styles.<br>Frontend coded in both Javascript and Coffeescript, own MVC component-based framework. AMD modules + require.js<br>Assets compilation / optimization thru Grunt tasks.<br>Middleware API in Node.js (Restify.js + MongoDB)<br>Integration of affiliate networks (affilinet, zanox, phg, etc) thru own API, developed with PHP (Laravel Framework) + MySQL + Redis<br>Integration of google (Tag Manager / Analytics), Sportfive (Football matches events) and social (FB, twitter, Instagram, etc) web services.<br>Provisioning thru puppet, massive use of AWS services (EC2, S3, CDN, etc..)"
+  },
+  {
+    "id": 5,
+    "title": "Schalke04 Bonusprogram - Mobile",
+    "img": "/app/modules/portfolio/img/ss_schalke_bonusprogramm_mobile.png",
+    "caption": "Mobile size Earns page",
+    "link": "https://schalkebonus.de",
+    "content": "Website for Fan Loyalty solution (Bonusprogram).<br>Developed in dotCMS (Velocity templates)<br>Own responsive framework / grid system + custom LESS styles.<br>Frontend coded in both Javascript and Coffeescript, own MVC component-based framework. AMD modules + require.js<br>Assets compilation / optimization thru Grunt tasks.<br>Middleware API in Node.js (Restify.js + MongoDB)<br>Integration of affiliate networks (affilinet, zanox, phg, etc) thru own API, developed with PHP (Laravel Framework) + MySQL + Redis<br>Integration of google (Tag Manager / Analytics), Sportfive (Football matches events) and social (FB, twitter, Instagram, etc) web services.<br>Provisioning thru puppet, massive use of AWS services (EC2, S3, CDN, etc..)"
+  },
+  {
+    "id": 6,
+    "title": "Hertha BSC Bonusprogram",
+    "img": "/app/modules/portfolio/img/ss_hertha_bonusprogramm.png",
+    "caption": "Earns page",
+    "link": "https://herthabsc-bonus.de",
+    "content": "Website for Fan Loyalty solution (Bonusprogram).<br>Developed in dotCMS (Velocity templates)<br>Own responsive framework / grid system + custom LESS styles.<br>Frontend coded in both Javascript and Coffeescript, own MVC component-based framework. AMD modules + require.js<br>Assets compilation / optimization thru Grunt tasks.<br>Middleware API in Node.js (Restify.js + MongoDB)<br>Integration of affiliate networks (affilinet, zanox, phg, etc) thru own API, developed with PHP (Laravel Framework) + MySQL + Redis<br>Integration of google (Tag Manager / Analytics), Sportfive (Football matches events) and social (FB, twitter, Instagram, etc) web services.<br>Provisioning thru puppet, massive use of AWS services (EC2, S3, CDN, etc..)"
+  },
+  {
+    "id": 7,
+    "title": "Battle For Gea",
+    "img": "/app/modules/portfolio/img/ss_bfg.png",
+    "caption": "Home page",
+    "link": "https://battleforgea.com",
+    "content": "Real time cards based online game.<br>Web built with PHP/Symfony/MySQL.<br>In-game managed by NodeJS/Socket.io/RabbitMQ/MongoDB.<br>The frontend is coded in both Javascript and Coffeescript with massive use of jQuery and HTML5 canvas.<br>Styles are coded in Stylus preprocessor with huge number of transitions/animations."
+  },
+  {
+    "id": 8,
+    "title": "LogQuest",
+    "img": "/app/modules/portfolio/img/ss_logquest.jpg",
+    "caption": "Dashboard page",
+    "link": "http://playgen.com/play/logquest/",
+    "content": "Project Team management gamified social network.<br>Backend developed in PHP/Wordpress (JSON API)<br>Frontend in Coffeescript/Backbone/RequireJS, canvas, LESS."
+  },
+  {
+    "id": 9,
+    "title": "Hat Party",
+    "img": "/app/modules/portfolio/img/ss_hatparty.jpg",
+    "caption": "Race page",
+    "link": "http://playgen.com/play/hatparty/",
+    "content": "Brainstorming Game Web, your horse wins if you submit more relevant ideas.<br>Real time game thru websockets.<br>Backend developed in Google Go + socket.io + MySQL.<br>Frontend in Javascript, canvas, LESS.<br>Headless testing with ZombieJS"
+  },
+  {
+    "id": 10,
+    "title": "Data Play",
+    "img": "/app/modules/portfolio/img/ss-dataplay.png",
+    "caption": "Network Chart Page",
+    "link": "http://playgen.com/play/dataplay/",
+    "content": "Data visualization Web.<br>Developed using d3.js and SVG for data visualization.<br>Backend in Google Go/MySQL<br>Frontend in Coffeescript/LESS."
+  },
+  {
+    "id": 11,
+    "title": "IKSeeM",
+    "img": "/app/modules/portfolio/img/ss_ikseem.png",
+    "caption": "Documents Box page",
+    "link": "https://www6.euskadi.net/r49-20878x/es/s99aSeguridadWar/comunJSP/s99ainicio.do",
+    "content": "Environmental management portal for Basque Government.<br>Developed in J2EE, Struts 1.2, Weblogic, Oracle.<br>Frontend Javascript+jQuery."
+  },
+  {
+    "id": 12,
+    "title": "Naughty Bots",
+    "img": "/app/modules/portfolio/img/ss_nb_05.jpg",
+    "caption": "Combat Arena",
+    "link": "http://games.frontcoder.com/naughtybots",
+    "content": "Bots fighting game.<br>Developed with Unity3D/C#/3dsMax"
+  },
+  {
+    "id": 13,
+    "title": "Frontcoder Blog",
+    "img": "/app/modules/portfolio/img/ss_blog.png",
+    "caption": "Home page",
+    "link": "http://web.frontcoder.com",
+    "content": "Personal blog built with wordpress"
+  },
+  {
+    "id": 14,
+    "title": "NOC Web",
+    "img": "/app/modules/portfolio/img/ss_noc.png",
+    "caption": "ModBus Electrical monitoring",
+    "link": "http://noc.frontcoder.com",
+    "content": "Datacenter management portal.<br>Developed for management/monitoring on datacenter inventory/equipment.<br>Backend in PHP/MySQL<br>Frontend HTML/CSS/Javascript<br>Diverse network protocols (TCP, SNMP, Modbus, ...)"
+  },
+  {
+    "id": 15,
+    "title": "About Frontcoder",
+    "img": "/app/modules/portfolio/img/ss_about.png",
+    "caption": "Bio / Timeline page",
+    "link": "http://about.frontcoder.com",
+    "content": "Personal info single page web application.<br>Developed with HTML5/CSS3/Javascript(Coffeescript)/Spine.js/Handlebars/OpenLayers"
+  },
+  {
+    "id": 16,
+    "title": "Solitaire Cards Game Web",
+    "img": "/app/modules/portfolio/img/ss_cards.png",
+    "caption": "Solitaire game",
+    "link": "http://cards.frontcoder.com",
+    "content": "Simple cards game web.<br>Backend in PHP/MySQL<br>Frontend HTML/CSS/Javascript/AJAX"
+  },
+  {
+    "id": 17,
+    "title": "Games 3D Landing",
+    "img": "/app/modules/portfolio/img/ss_games.png",
+    "caption": "Landing page",
+    "link": "http://games.frontcoder.com",
+    "content": "Games 3D landing page.<br>Static page developed with HTML5/WebGL (Three.js)."
+  },
+  {
+    "id": 18,
+    "title": "Testing Web",
+    "img": "/app/modules/portfolio/img/ss_test.png",
+    "caption": "3D Browser Page",
+    "link": "http://test.frontcoder.com",
+    "content": "Web for testing technologies (mostly Game engines).<br>Backend PHP/MySQL<br>Frontend HTML5(WebGL)/CSS3/Javascript/jQueryUI."
+  }
 ]

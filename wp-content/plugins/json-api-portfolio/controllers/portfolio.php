@@ -49,10 +49,10 @@ class JSON_API_Portfolio_Controller {
         $data = file_get_contents(dirname(__FILE__) . '/../data/portfolio.json');
         $aData = json_decode($data);
         $filtered = array_filter($aData, function($item) use ($id) {
-            return $item->id == $id;
+            return $item->id == intval($id);
         });
         return array(
-            'item' => $filtered[0]
+            'item' => array_values($filtered)[0]
         );
     }    
 }
