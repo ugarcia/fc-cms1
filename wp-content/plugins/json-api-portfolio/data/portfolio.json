@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Albion Online MMO Game Website - Desktop",
-    "img": "/app/modules/portfolio/img/ss_albiononline_desktop.png",
+    "img": "/app/modules/portfolio/img/ss_albiononline_desktop.jpg",
     "caption": "Desktop size home page",
     "link": "https://albiononline.com",
     "content": "Website for a MMO game.<br>Web developed in PHP/Symfony2 (Twig templates)<br>Zurb's foundation as responsive framework + custom SASS styles.<br>Frontend coded in both Javascript and Coffeescript.<br>Assets compilation / optimization thru Grunt tasks.<br>PostgreSQL + MySQL (forum) databases.<br>Integration of payment (adyen), helpdesk (ZendDesk), mailing (Mandrill), google (Tag Manager / Analytics) and social (FB, twitter, etc) web services.<br>Provisioning thru puppet + hiera."
